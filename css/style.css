@@ -217,6 +217,7 @@ input.form-control[type="submit"]{
 
 }
 
+input.form-control[type="submit"]:active,
 input.form-control[type="submit"]:focus,
 input.form-control[type="submit"]:hover{
     background: var(--white);
