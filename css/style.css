@@ -206,7 +206,7 @@
     outline: none;
     border: 1px solid var(--primary);
     background: var(--white);
-    box-shadow: 0px 5px 7px -1px var(--primary);
+    box-shadow: 0px 6px 7px -3px var(--primary);
 }
 input.form-control[type="submit"]{
     background: var(--primary);
@@ -223,7 +223,7 @@ input.form-control[type="submit"]:hover{
     background: var(--white);
     color: var(--primary);
     letter-spacing: 2px;
-    box-shadow: 0px 5px 7px -1px var(--primary);
+    box-shadow: 0px 6px 7px -3px var(--primary);
 
 }
 
