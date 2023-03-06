@@ -226,6 +226,239 @@ input.form-control[type="submit"]:hover{
 
 }
 
+
+/***********/
+
+
+section.market-housing {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 2rem
+}
+
+section.market-housing .market-title {
+    margin-bottom: 20px
+}
+
+section.market-housing .market-title span {
+    color: #ff6c2c;
+    font-weight: 600;
+    margin-bottom: 12px;
+    display: block;
+    text-transform: uppercase;
+    font-size: 18px;
+    letter-spacing: 0.5px
+}
+
+section.market-housing .market-title h2 {
+    font-size: 42px;
+    line-height: 54px;
+    letter-spacing: 0.5px;
+    color: #222;
+    margin-top: 0px;
+    margin-bottom: 30px
+}
+
+section.market-housing .market-left-block {
+    padding-bottom: 30px
+}
+
+section.market-housing .market-left-block p {
+    font-size: 17px;
+    line-height: 26px;
+    color: #1b1e20;
+    margin-bottom: 1.3rem
+}
+
+section.market-housing .market-left-block .downlord-btn {
+    padding-top: 20px
+}
+
+.downlord-btn {
+    padding-top: 10px
+}
+
+.downlord-btn a,
+.downlord-btn button {
+    background: var(--primary);
+    border: 2px solid var(--primary);
+    padding: 12px 18px;
+    border-radius: 0px;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+    color: var(--white);
+    text-decoration: none;
+    box-shadow: none;
+    font-weight: 700;
+    box-shadow: 0px 6px 12px -4px var(--primary);
+    -webkit-box-shadow: 0px 6px 12px -4px var(--primary);
+    -moz-box-shadow: 0px 6px 12px -4px var(--primary);
+    -ms-box-shadow: 0px 6px 12px -4px var(--primary);
+    -o-box-shadow: 0px 6px 12px -4px var(--primary);
+    transition: 0.3s all ease-in-out;
+    -webkit-transition: 0.3s all ease-in-out;
+    -moz-transition: 0.3s all ease-in-out;
+    -ms-transition: 0.3s all ease-in-out;
+    -o-transition: 0.3s all ease-in-out;
+}
+
+.downlord-btn a:focus,
+.downlord-btn a:hover,
+.downlord-btn button:focus,
+.downlord-btn button:hover {
+    background: var(--white);
+    border-color: var(--primary);
+    padding: 12px 18px;
+    border-radius: 0px;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 1px;
+    color: var(--primary);
+    outline: none;
+    transition: 0.3s all ease-in-out;
+    -webkit-transition: 0.3s all ease-in-out;
+    -moz-transition: 0.3s all ease-in-out;
+    -ms-transition: 0.3s all ease-in-out;
+    -o-transition: 0.3s all ease-in-out;
+}
+
+section.market-housing .right-icon-block .market-title {
+    margin-bottom: 30px
+}
+
+section.market-housing .right-icon-block .market-title span {
+    font-size: 24px;
+    margin-bottom: 10px
+}
+
+section.market-housing .right-icon-block .market-title h2 {
+    font-size: 36px;
+    max-width: 76%;
+    margin: 0 auto;
+    line-height: normal
+}
+
+section.market-housing .right-icon-block .chartimg-footer {
+    margin-top: 30px
+}
+
+section.market-housing .right-icon-block .chartimg-footer img {
+    margin-top: 4px
+}
+
+section.market-housing .right-icon-block .chartimg-footer p {
+    text-align: justify;
+    color: #8d8e8f
+}
+
+section.market-housing .right-icon-block .left-border {
+    border-right: 2px solid #eee
+}
+
+section.market-housing .right-icon-block {
+    text-align: center;
+    margin-top: 2px
+}
+
+section.market-housing .right-icon-block .icon-box {
+    margin-bottom: 20px
+}
+
+section.market-housing .right-icon-block .one-box {
+    border-bottom: 2px solid #eee;
+    padding-bottom: 20px
+}
+
+section.market-housing .right-icon-block .two-box {
+    border-bottom: 2px solid #eee;
+    padding-bottom: 20px
+}
+
+section.market-housing .right-icon-block .five-box {
+    border-bottom: 2px solid #eee;
+    padding-bottom: 20px
+}
+
+section.market-housing .right-icon-block .six-box {
+    border-bottom: 2px solid #eee;
+    padding-bottom: 20px
+}
+
+section.market-housing .right-icon-block .inner-border {
+    border-right: 2px solid #eee
+}
+
+section.market-housing .right-icon-block .icon-box img {
+    max-width: 60px;
+    padding-bottom: 6px;
+    margin: auto;
+}
+
+section.market-housing .right-icon-block .icon-box p {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #1b1e20;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    font-family: 'KarlaBold';
+    font-weight: 800;
+    opacity: 50%
+}
+
+section.market-housing .right-icon-block .icon-box h4 {
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 0px
+}
+
+section.market-housing .right-icon-block .icon-box span {
+    font-size: 22px;
+    font-weight: 600;
+    font-family: "Libre Baskerville", serif
+}
+
+section.market-housing .right-icon-block .one-box h4,span {
+    color: #825ca7
+}
+
+section.market-housing .right-icon-block .two-box h4,span {
+    color: #236a95
+}
+
+section.market-housing .right-icon-block .three-box h4,span {
+    color: #00b2bf
+}
+
+section.market-housing .right-icon-block .four-box h4,span {
+    color: #ff6c2c
+}
+
+section.market-housing .right-icon-block .five-box h4,span {
+    color: #ff6c2c
+}
+
+section.market-housing .right-icon-block .six-box h4,span {
+    color: #357d57
+}
+
+section.market-housing .right-icon-block .seven-box h4,span {
+    color: #00b2bf
+}
+
+section.market-housing .right-icon-block .eight-box h4,span {
+    color: #236a95
+}
+
+.right-icon-block .market-title, .right-icon-block .chartimg-footer {
+    display: none;
+}
+
+.chartimg-footer {
+    font-size: 11px;
+}
+
  /***************/
  /* Responsive */
  /*************/
